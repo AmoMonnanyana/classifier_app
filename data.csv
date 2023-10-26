@@ -1,0 +1,21 @@
+id,Latitude,Longitude,Cd (mg/kg),Cr (mg/kg),Ni (mg/kg),Pb (mg/kg),Zn (mg/kg),Cu (mg/kg),Co (mg/kg),Predicted class
+1,0.0,0.0,0.27,15.05,12.22,58.78,91.6,31.17,0.0,very low contamination
+2,0.0,0.0,0.39,16.85,11.47,51.83,109.13,32.33,0.0,very low contamination
+3,0.0,0.0,0.27,10.68,8.86,48.68,98.49,31.89,0.0,very low contamination
+4,0.0,0.0,0.11,14.3,11.48,32.0,26.47,9.17,0.0,very low contamination
+5,0.0,0.0,0.36,18.2,11.31,49.13,106.28,35.31,0.0,very low contamination
+6,0.0,0.0,0.18,19.21,10.32,34.6,35.82,12.94,0.0,very low contamination
+7,0.0,0.0,0.52,15.9,12.41,61.83,120.93,38.43,0.0,very low contamination
+8,0.0,0.0,0.69,21.9,13.46,75.55,155.04,39.51,0.0,very low contamination
+9,0.0,0.0,0.32,14.38,8.84,69.07,83.69,16.58,0.0,very low contamination
+10,0.0,0.0,0.0,126.8,83.1,118.5,92.0,21.4,34.7,moderate contamination
+11,0.0,0.0,0.0,0.0,90.8,209.2,1658.0,17.4,16.3,high contamination
+12,0.0,0.0,0.0,301.6,58.8,152.0,359.4,144.8,32.5,high contamination
+13,0.0,0.0,0.145,65.7,29.5,24.7,68.9,23.4,0.0,very low contamination
+14,0.0,0.0,1.46,0.0,29.7,209.0,200.0,53.1,21.4,low contamination
+15,0.0,0.0,1.59,53.36,29.14,22.59,96.25,26.92,0.0,very low contamination
+16,0.0,0.0,2.51,61.36,33.48,34.85,139.7,35.79,0.0,very low contamination
+17,0.0,0.0,1.9,51.62,31.15,25.94,99.75,26.23,0.0,very low contamination
+18,0.0,0.0,1.54,54.89,27.03,15.09,94.83,24.55,0.0,very low contamination
+19,0.0,0.0,1.27,48.17,30.67,13.0,75.92,22.95,0.0,very low contamination
+20,0.0,0.0,0.518,92.82,47.101,41.012,79.404,33.18,0.0,moderate contamination
